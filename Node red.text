@@ -1,5 +1,5 @@
 msg.payload={ 'temperature':global.get(" temperature "), 
-' humidity ':global.get(" humidity "),' 
+' humidity ':global.get(" humidity "),
 ' vibration ':global.get(" vibration "), 
 'current' :global.get(" current ")
 }
